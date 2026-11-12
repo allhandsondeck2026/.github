@@ -10,7 +10,7 @@ Building ideas. Engineering solutions. Exploring beyond boundaries.
 
 <br>
 
-<img src="BANNER_IMAGE_URL" width="100%" alt="All Hands On Deck Team Banner">
+<img src=".github/assets/banner.png" width="100%" alt="All Hands On Deck Team Banner">
 
 <br>
 
