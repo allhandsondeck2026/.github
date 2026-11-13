@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="All Hands On Deck">
-</p>
-
 <h1 align="center">🚀 ALL HANDS ON DECK</h1>
 
 <h3 align="center">Innovation • Science • Technology • Space Exploration</h3>
@@ -10,7 +6,9 @@
   An international student team driven by curiosity, creativity, collaboration, and a passion for building the future.
 </p>
 
----
+<p align="center">
+  <img src="" width="100%" alt="All Hands On Deck">
+</p>
 
 ## 🌍 Who We Are
 
