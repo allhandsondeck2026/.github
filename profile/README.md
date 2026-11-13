@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="profile/assets/banner.png" width="100%" alt="All Hands On Deck Team Banner">
+<img src="banner.png" width="100%" alt="All Hands On Deck Team Banner">
 
 <br>
 
