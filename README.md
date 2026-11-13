@@ -96,7 +96,7 @@ MAG-LASER includes a custom-developed interactive dashboard designed to visualiz
 
 <div align="center">
 
-**Project Repository:** https://github.com/allhandsondeck2026/MAG-LASER
+**Project Repository:** [Go to Repository](https://github.com/allhandsondeck2026/MAG-LASER-Active-Shielding)
 
 **Live Dashboard:** COMING SOON
 
