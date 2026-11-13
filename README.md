@@ -96,7 +96,7 @@ MAG-LASER includes a custom-developed interactive dashboard designed to visualiz
 
 <div align="center">
 
-**Project Repository:** COMING SOON
+**Project Repository:** https://github.com/allhandsondeck2026/MAG-LASER
 
 **Live Dashboard:** COMING SOON
 
