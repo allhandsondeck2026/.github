@@ -10,7 +10,7 @@
 
 <br>
 
-<img src=".github/profile/README.md" width="100%" alt="All Hands On Deck Team Banner">
+<img src=".github/profile/banner.png" width="100%" alt="All Hands On Deck Team Banner">
 
 <br>
 
