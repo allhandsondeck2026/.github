@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- <img src="profile/banner.png" width="100%" alt="All Hands On Deck Team Banner"> -->
+<img src="profile/banner.png" width="100%" alt="All Hands On Deck Team Banner">
 
 <br>
 
